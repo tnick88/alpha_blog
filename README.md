@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+# alpha_blog.  init new
+# alpha_blog.  subsequent change zzzzz
